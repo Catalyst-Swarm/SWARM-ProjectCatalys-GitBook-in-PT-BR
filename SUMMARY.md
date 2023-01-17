@@ -27,7 +27,7 @@
 
 * [Community Advisor Overview](community-advisor/community-advisor-overview.md)
 * [Community Advisor Onboarding](community-advisor/community-advisor-onboarding.md)
-* [Guia do Conselheiro da Comunidade](community-advisor/community-advisor-guide.md)
+* [Guia do Proposal Assesor](community-advisor/community-advisor-guide.md)
 * [Guia de avaliação](community-advisor/assessment-guide/README.md)
   * [Fundo 8](community-advisor/assessment-guide/fundo-8.md)
   * [Fundo 7](community-advisor/assessment-guide/fundo-7.md)

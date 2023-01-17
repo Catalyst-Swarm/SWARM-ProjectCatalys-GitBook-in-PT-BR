@@ -30,7 +30,7 @@ O guia de avaliação tem exemplos de exemplos de avaliação úteis e não tão
 
 Existe uma ferramenta feita pela comunidade que pode ajudar a encontrar propostas com avaliações baixas - https://cardanocataly.st/ca-tool/. Fundo 4 é a primeira vez que foi introduzido. Está em desenvolvimento e a comunidade incentiva o feedback para torná-lo melhor a cada ciclo do Fundo.
 
-**Há recompensas por ser um Conselheiro da Comunidade?**&#x20;
+**Há recompensas por ser um Proposal Assesor?**&#x20;
 
 Os Proposal Assessors são reconhecidos por seu tempo e atenção ao revisar propostas e oferecer revisões de qualidade. O pote de recompensa total para Fund7 é $ 1.600.000 em ada de um tamanho total de fundo de 8.000.000 em ada. Onde 4% do fundo ($ 320.000 em ada) é alocado para PAs e 1% para (vPA)s ($ 80.000 em ada). Para obter mais detalhes sobre este novo algoritmo gratificante, consulte os slides da prefeitura da Catalyst aqui e a explicação em vídeo aqui.
 
@@ -52,4 +52,4 @@ Um ótimo lugar para começar é o canal de telegram [Project Catalyst Community
 
 Observação: faz parte das diretrizes que os PAs compareçam ou assistam a uma gravação do Townhall para garantir que conheçam as informações mais recentes e possam responder às perguntas da comunidade, se assim o desejarem. Uma discussão mais aprofundada é feita no servidor de discórdia do Project Catalyst: https://discord.gg/2RnUtK8 Há uma seção para CA. Faça perguntas em geral se não tiver certeza do que está vendo, para onde ir ou o que fazer.&#x20;
 
-Uma página inicial da comunidade está em desenvolvimento contínuo. É um lugar onde muitos recursos podem ser encontrados. Se você quiser dar uma olhada, pode ser encontrado aqui: https://cardanocataly.st Tutorial feito pela comunidade para Conselheiros da Comunidade: https://vimeo.com/600295406\
+Uma página inicial da comunidade está em desenvolvimento contínuo. É um lugar onde muitos recursos podem ser encontrados. Se você quiser dar uma olhada, pode ser encontrado aqui: https://cardanocataly.st Tutorial feito pela comunidade para Proposal Assesors: https://vimeo.com/600295406\

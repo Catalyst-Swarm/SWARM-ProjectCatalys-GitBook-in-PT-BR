@@ -74,7 +74,7 @@ Sim.
 
 ## Como as recompensas são calculadas?&#x20;
 
-Atualmente, existem os seguintes tipos de recompensas: recompensas do voter, recompensas do proponente, recompensas do conselheiro da comunidade, recompensas do conselheiro da comunidade veterano e recompensas do referenciador.
+Atualmente, existem os seguintes tipos de recompensas: recompensas do voter, recompensas do proponente, recompensas do conselheiro da comunidade, recompensas do veteran Proposal Assesors e recompensas do referenciador.
 
 ## O que acontece com o financiamento da proposta se o preço do ada mudar?&#x20;
 

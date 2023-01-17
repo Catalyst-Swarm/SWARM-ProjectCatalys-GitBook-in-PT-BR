@@ -1,4 +1,4 @@
-# Guia do Conselheiro da Comunidade
+# Guia do Proposal Assesor
 
 Leia a visão geral do [conselheiro da comunidade](community-advisor-overview.md) para entender por que se tornar um conselheiro da comunidade.
 

@@ -1,4 +1,4 @@
-# Visão geral do proponente
+# Visão geral do Proposer
 
 #### Qual é o 'processo de proposta' no Project Catalyst?&#x20;
 

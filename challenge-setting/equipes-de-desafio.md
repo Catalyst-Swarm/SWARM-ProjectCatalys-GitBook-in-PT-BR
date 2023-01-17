@@ -8,7 +8,7 @@ Com +20 desafios e “transferência” da definição de desafios para a comuni
 
 ### Qual é o papel?&#x20;
 
-A função das equipes de desafio é administrar os desafios no Catalyst - apresentar o desafio, acompanhar o progresso e relatar à comunidade sua perspectiva sobre se os desafios foram resolvidos. Em troca, a equipe proponente tem a oportunidade de receber um incentivo de “Equipe de Desafio” no valor de US$ 2.500 em ada.
+A função das equipes de desafio é administrar os desafios no Catalyst - apresentar o desafio, acompanhar o progresso e relatar à comunidade sua perspectiva sobre se os desafios foram resolvidos. Em troca, a equipe Proposer tem a oportunidade de receber um incentivo de “Equipe de Desafio” no valor de US$ 2.500 em ada.
 
 ### Emancipando a comunidade&#x20;
 
@@ -27,7 +27,7 @@ Pense nas equipes de desafio como uma função de ligação do projeto - vocês 
 
 ### Elegibilidade
 
-Para ser elegível para receber o prêmio Challenge Teams, há três aspectos principais a cumprir: Todos os membros de cada Equipe de Desafio devem se nomear como co-proponentes na proposta do Desafio de Configuração do Desafio em Ideascale até o momento da submissão final. A proposta finalizada do Challenge Setting Challenge deve ser enviada dentro dos prazos Assim que uma proposta de definição de desafio for aceita pela comunidade, a equipe proponente receberá um incentivo de "Equipe de desafio" no valor de $ 2.500 em ada, uma vez que todas as seguintes condições sejam atendidas: A equipe do desafio apresenta o desafio à comunidade no início do próximo fundo.&#x20;
+Para ser elegível para receber o prêmio Challenge Teams, há três aspectos principais a cumprir: Todos os membros de cada Equipe de Desafio devem se nomear como co-proponentes na proposta do Desafio de Configuração do Desafio em Ideascale até o momento da submissão final. A proposta finalizada do Challenge Setting Challenge deve ser enviada dentro dos prazos Assim que uma proposta de definição de desafio for aceita pela comunidade, a equipe Proposer receberá um incentivo de "Equipe de desafio" no valor de $ 2.500 em ada, uma vez que todas as seguintes condições sejam atendidas: A equipe do desafio apresenta o desafio à comunidade no início do próximo fundo.&#x20;
 
 A equipe de desafio facilita uma sessão de breakout focada no desafio em uma das prefeituras posteriores. A equipe de desafio lidera uma sessão de retrospectiva de desafio durante a próxima "semana de retrospectiva" do fundo. A equipe do desafio facilita uma sessão com as equipes proponentes que receberam financiamento para o desafio. Isso pode ocorrer durante a integração do coordenador, onde os projetos recém-financiados encontram pela primeira vez a equipe do Catalyst. Durante 3 meses, a Equipe do Desafio é responsável por comunicar à comunidade o andamento dos projetos de propostas financiados e suas principais métricas, talvez como parte das reuniões do Coordenador. As equipes do Desafio apresentarão suas reflexões sobre se o Desafio está sendo abordado e destacarão as equipes que estão fazendo progressos significativos em sua abordagem.
 

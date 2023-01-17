@@ -74,15 +74,15 @@ Sim.
 
 ## Como as recompensas são calculadas?&#x20;
 
-Atualmente, existem os seguintes tipos de recompensas: recompensas do voter, recompensas do proponente, recompensas do conselheiro da comunidade, recompensas do veteran Proposal Assesors e recompensas do referenciador.
+Atualmente, existem os seguintes tipos de recompensas: recompensas do voter, recompensas do Proposer, recompensas do conselheiro da comunidade, recompensas do veteran Proposal Assesors e recompensas do referenciador.
 
 ## O que acontece com o financiamento da proposta se o preço do ada mudar?&#x20;
 
-Atualmente, usamos a seguinte metodologia para garantir a estabilidade de preços: Medimos o preço ada/USD exibido em https://coinmarketcap.com/ Na data de atribuição dos prémios. Ajustaremos o valor de ada dado à proposta vencedora para que seja equivalente ao mesmo valor de USD calculado anteriormente. Exemplo: AA proposta pede 100 ada em 21 de outubro e vamos supor que o preço ada nessa época seja de 0,1 USD. No dia da recompensa, o preço mudou para que ada agora valha 0,15 USD. Isso significa que o proponente será recompensado com 66.666 ada. A mesma quantia em USD que eles pediram originalmente.
+Atualmente, usamos a seguinte metodologia para garantir a estabilidade de preços: Medimos o preço ada/USD exibido em https://coinmarketcap.com/ Na data de atribuição dos prémios. Ajustaremos o valor de ada dado à proposta vencedora para que seja equivalente ao mesmo valor de USD calculado anteriormente. Exemplo: AA proposta pede 100 ada em 21 de outubro e vamos supor que o preço ada nessa época seja de 0,1 USD. No dia da recompensa, o preço mudou para que ada agora valha 0,15 USD. Isso significa que o Proposer será recompensado com 66.666 ada. A mesma quantia em USD que eles pediram originalmente.
 
 ## Governança e legal Quem mantém os direitos de propriedade intelectual de uma proposta financiada?&#x20;
 
-Cada proponente definirá seus próprios direitos autorais e propriedade intelectual.
+Cada Proposer definirá seus próprios direitos autorais e propriedade intelectual.
 
 ## Quem faz os desafios?
 
@@ -136,9 +136,9 @@ O feedback é fornecido por meio do IdeaScale. Lá, qualquer pessoa pode fornece
 
 Um inovador é qualquer pessoa que traz ideias de avanço para a plataforma de inovação. Um inovador pode ser técnico ou não técnico. O trabalho mais importante do inovador é fortalecer a Cardano por meio da identificação de oportunidades potenciais de desenvolvimento.
 
-## Quem é o proponente?&#x20;
+## Quem é o Proposer?&#x20;
 
-Pense no proponente como o “CEO” da proposta, responsável por orientar sua execução do início ao fim.
+Pense no Proposer como o “CEO” da proposta, responsável por orientar sua execução do início ao fim.
 
 ## O que é um Proposal Assessor?&#x20;
 
@@ -162,7 +162,7 @@ Não temos uma classe especializada estruturada neste momento. Incentivamos qual
 
 ## Como os implementadores serão decididos?
 
-O proponente escolherá a equipe de implementação.
+O Proposer escolherá a equipe de implementação.
 
 ## Os participantes podem ser não técnicos?&#x20;
 

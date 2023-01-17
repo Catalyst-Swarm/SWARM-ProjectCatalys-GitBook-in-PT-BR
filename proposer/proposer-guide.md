@@ -1,6 +1,6 @@
-# Guia do Proponente
+# Guia do Proposer
 
-Leia a[ visão geral do proponente ](../community-advisor/assessment-guide/)para entender por que se tornar um proponente.&#x20;
+Leia a[ visão geral do Proposer ](../community-advisor/assessment-guide/)para entender por que se tornar um Proposer.&#x20;
 
 ### Guia de propostas&#x20;
 
@@ -88,7 +88,7 @@ Faça outras propostas mais fortes, dando um bom feedback&#x20;
 
 ### Recursos&#x20;
 
-[Guia do proponente ](proposer-overview.md)
+[Guia do Proposer ](proposer-overview.md)
 
 [Ideascale - envie um guia de ideias](https://intercom.help/ideascale/en/articles/682959-submit-an-idea)
 

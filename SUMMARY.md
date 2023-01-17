@@ -35,8 +35,8 @@
 
 ## Proposer
 
-* [Visão geral do proponente](proposer/proposer-overview.md)
-* [Guia do Proponente](proposer/proposer-guide.md)
+* [Visão geral do Proposer](proposer/proposer-overview.md)
+* [Guia do Proposer](proposer/proposer-guide.md)
 
 ## Challenge Setting
 

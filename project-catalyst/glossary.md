@@ -22,7 +22,7 @@
 
 **Proposta** - Uma proposta é um envio de ideia ao Project Catalyst que alguém ou um grupo deseja obter financiamento. As propostas são feitas para enfrentar um desafio específico delineado na rodada de financiamento.
 
-**Proponente** - Um proponente é alguém que pega sua ideia e cria uma proposta no Project Catalyst com o objetivo de obter financiamento do tesouro da comunidade. Qualquer um pode se tornar um proponente, seja um indivíduo, um grupo de pessoas ou uma organização.
+**Proposer** - Um Proposer é alguém que pega sua ideia e cria uma proposta no Project Catalyst com o objetivo de obter financiamento do tesouro da comunidade. Qualquer um pode se tornar um Proposer, seja um indivíduo, um grupo de pessoas ou uma organização.
 
 **Limite Mínimo de Votação** - Cada fundo tem um limite mínimo de votação em Ada que eles devem ter para participar da votação.
 

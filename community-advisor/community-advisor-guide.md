@@ -21,7 +21,7 @@ Para ser elegível para a função de Proposal Assessor (CA), o candidato deve r
 * Assistirei ou assistirei a todas as reuniões da prefeitura.&#x20;
 * Devo me familiarizar com as Diretrizes da CA.&#x20;
 * Não enviei uma proposta de financiamento para o Current Fund/Challenge.&#x20;
-* Não sou afiliado a nenhuma equipe proponente do Current Fund/Challenge.&#x20;
+* Não sou afiliado a nenhuma equipe Proposer do Current Fund/Challenge.&#x20;
 * Já devo ser um membro da Ideascale e concordar com o formulário de contrato da CA para cada Fundo, assim que estiver disponível. Comprometidos em fornecer uma revisão justa e cuidadosa.
 
 ### Linha do tempo&#x20;
@@ -38,7 +38,7 @@ Esta proposta efetivamente aborda o desafio. Cada desafio terá um novo conjunto
 
 ### Viabilidade&#x20;
 
-Dada a experiência e os planos da equipe proponente, é altamente provável que esta proposta seja implementada com sucesso. Você deve conseguir encontrar essas informações na proposta. Critérios sugeridos: Experiência relevante do proponente. Seja uma equipe ou um proponente individual. Implementadores já comprometidos ou não. Plano e orçamento sensatos para a tarefa descrita.
+Dada a experiência e os planos da equipe Proposer, é altamente provável que esta proposta seja implementada com sucesso. Você deve conseguir encontrar essas informações na proposta. Critérios sugeridos: Experiência relevante do Proposer. Seja uma equipe ou um Proposer individual. Implementadores já comprometidos ou não. Plano e orçamento sensatos para a tarefa descrita.
 
 ### Auditabilidade&#x20;
 
@@ -64,7 +64,7 @@ A identidade da CA será mantida anônima no Ideascale. No entanto, apesar de no
 
 O objetivo dos incentivos é garantir que os revisores façam uma revisão criteriosa e justa de todas as propostas e que cada proposta receba pelo menos três revisões. Portanto: Um total de 5% do valor do fundo de desafio será alocado como incentivo aos Proposal Assessors. 4% serão alocados como recompensas pelas avaliações. 1% será alocado para incentivar aqueles que revisam as avaliações. Após a revisão por pares pelos PAs, se puder ser determinado que uma revisão é: dada a partir de uma perspectiva tendenciosa. claro que a proposta não foi lida pelo Proposal Assessor. claro que os critérios de seleção e as diretrizes de revisão não foram aplicados ou compreendidos pelo conselheiro da comunidade. carece de articulação clara da justificativa para a avaliação de forma construtiva.&#x20;
 
-Nesse caso, o Proposal Assessor não será elegível para incentivos e receberá uma advertência. Das revisões elegíveis, para cada proposta na cédula, três revisões serão selecionadas aleatoriamente de todos os revisores da proposta para receber um ntive. Isso significa que, se uma proposta receber 5 avaliações, 3 dos 5 revisores receberão um incentivo. Os incentivos serão distribuídos igualmente entre todas as avaliações selecionadas aleatoriamente. Para receber o incentivo, será solicitado ao conselheiro da comunidade que adicione um endereço de pagamento Shelley válido no Ideascale. As recompensas serão enviadas junto com as recompensas do proponente no início da fase de execução do Fundo.&#x20;
+Nesse caso, o Proposal Assessor não será elegível para incentivos e receberá uma advertência. Das revisões elegíveis, para cada proposta na cédula, três revisões serão selecionadas aleatoriamente de todos os revisores da proposta para receber um ntive. Isso significa que, se uma proposta receber 5 avaliações, 3 dos 5 revisores receberão um incentivo. Os incentivos serão distribuídos igualmente entre todas as avaliações selecionadas aleatoriamente. Para receber o incentivo, será solicitado ao conselheiro da comunidade que adicione um endereço de pagamento Shelley válido no Ideascale. As recompensas serão enviadas junto com as recompensas do Proposer no início da fase de execução do Fundo.&#x20;
 
 Princípios Orientadores do Proposal Assessor Mal-entendidos são mais prováveis do que comportamentos malignos (veja Hanlon's Razor). Embora seja fácil presumir que as propostas, mensagens ou atividades que você não entende ou com as quais discorda vêm de intenções negativas... é mais provável que você (ou eles) estejam entendendo mal algo sobre o outro; a proposta; ou o desafio/contexto. Encontre clareza e um terreno comum antes de desperdiçar sua energia. Separe a ideia da proposta. Uma proposta é apenas um documento e uma expressão de uma ideia. Uma ótima ideia ainda pode ter uma proposta ruim que não expressa a ideia adequadamente ou precisa de mais assistência/colaboração/recursos para atingir todo o seu potencial.&#x20;
 

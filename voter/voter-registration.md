@@ -1,6 +1,6 @@
 # Registro na votação
 
-Leia a [visão geral do eleitor](voter-guide.md) para entender porque se registrar para votação.
+Leia a [visão geral do voter](voter-guide.md) para entender porque se registrar para votação.
 
 ## Pré-requisitos
 

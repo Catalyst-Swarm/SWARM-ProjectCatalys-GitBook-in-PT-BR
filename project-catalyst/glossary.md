@@ -10,7 +10,7 @@
 
 **Etapas do desafio** - Os estágios do desafio são uma coleção de marcos para um desafio em que diferentes membros do Project Catalyst executarão tarefas para levar um desafio da ideia à execução. Uma lista das fases e etapas do processo de financiamento está listada aqui.
 
-**Conselheiro Comunitário** - Um conselheiro da comunidade é alguém familiarizado com a plataforma de inovação, o desafio e as melhores práticas para desenvolver uma proposta. Eles agem para ajudar os inovadores a garantir que suas ideias sejam auditáveis, alcançáveis e impactantes.
+**Proposal Assessor** - Um conselheiro da comunidade é alguém familiarizado com a plataforma de inovação, o desafio e as melhores práticas para desenvolver uma proposta. Eles agem para ajudar os inovadores a garantir que suas ideias sejam auditáveis, alcançáveis e impactantes.
 
 **DAO** - DAO significa organização autônoma descentralizada. O Project Catalyst está procurando se tornar uma organização totalmente descentralizada para as melhorias e inovação do ecossistema, uma vez que pode integrar a fase de governança de Cardano chamada Voltaire.
 
@@ -26,14 +26,14 @@
 
 **Limite Mínimo de Votação** - Cada fundo tem um limite mínimo de votação em Ada que eles devem ter para participar da votação.
 
-**Conselheiro Comunitário Veterano** - Os conselheiros comunitários veteranos são conselheiros comunitários que ajudam a revisar as avaliações de propostas feitas pelos conselheiros comunitários para uma determinada rodada de financiamento. Os conselheiros comunitários veteranos precisam já ter concluído uma rodada de financiamento como conselheiro comunitário antes de se tornarem conselheiros comunitários veteranos.
+**Veteran Proposal Assessor** - Os Veteran Proposal Assessors são Proposal Assessors que ajudam a revisar as avaliações de propostas feitas pelos Proposal Assessors para uma determinada rodada de financiamento. Os Veteran Proposal Assessors precisam já ter concluído uma rodada de financiamento como Proposal Assessor antes de se tornarem Veteran Proposal Assessors.
 
-**Eleitor** - Os eleitores são aqueles que votam na fase de governação nas propostas que pretendem ver financiadas. Os eleitores podem ser qualquer pessoa que possua Ada e atenda ao limite mínimo de votação.
+**Voter** - Os voters são aqueles que votam na fase de governação nas propostas que pretendem ver financiadas. Os voters podem ser qualquer pessoa que possua Ada e atenda ao limite mínimo de votação.
 
-**Instantâneo de registro** - Para votar no Project Catalyst, os eleitores devem registrar o endereço Cardano de onde desejam votar. O instantâneo de registro pegará todas as pessoas que se registraram antes do prazo do instantâneo e as incluirá nessa rodada de votação.
+**Instantâneo de registro** - Para votar no Project Catalyst, os voters devem registrar o endereço Cardano de onde desejam votar. O instantâneo de registro pegará todas as pessoas que se registraram antes do prazo do instantâneo e as incluirá nessa rodada de votação.
 
-**Instantâneo de votação** - Quando o prazo de votação é atingido, um instantâneo é obtido para capturar os votos de cada eleitor registrado naquele determinado momento. Os eleitores podem substituir seu voto existente quantas vezes quiserem antes do prazo final do instantâneo de votação.
+**Instantâneo de votação** - Quando o prazo de votação é atingido, um instantâneo é obtido para capturar os votos de cada voter registrado naquele determinado momento. Os voters podem substituir seu voto existente quantas vezes quiserem antes do prazo final do instantâneo de votação.
 
-**Recompensas de votação** - Os eleitores são compensados por votar em uma determinada rodada de financiamento como um mecanismo de recompensa por aumentar a participação.
+**Recompensas de votação** - Os voters são compensados por votar em uma determinada rodada de financiamento como um mecanismo de recompensa por aumentar a participação.
 
-**Recenseamento** - Eleitoral Os eleitores devem se registrar para votar no Project Catalyst. Para se registrar para votar, a pessoa deve baixar o aplicativo de votação e registrar seu endereço Cardano no tempo previsto para o registro de eleitor de um determinado fundo.
+**Recenseamento** - Eleitoral Os voters devem se registrar para votar no Project Catalyst. Para se registrar para votar, a pessoa deve baixar o aplicativo de votação e registrar seu endereço Cardano no tempo previsto para o registro de voter de um determinado fundo.

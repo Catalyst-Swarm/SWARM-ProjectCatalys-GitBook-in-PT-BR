@@ -46,11 +46,11 @@ Durante a fase de execução, o financiamento será concedido às equipes ou ind
 
 ## Financiamento: Como você consegue financiamento para se tornar um líder de pensamento profissional que ajuda na concepção?&#x20;
 
-Temos três incentivos possíveis de receber durante a participação no Project Catalyst. Eles incluem a recompensa do eleitor, a recompensa do conselheiro da comunidade e a recompensa da proposta. Acreditamos que o sucesso desses projetos significa o sucesso da ada no longo prazo. Isso significa que todo mundo tem pele no jogo em algum aspecto.
+Temos três incentivos possíveis de receber durante a participação no Project Catalyst. Eles incluem a recompensa do voter, a recompensa do conselheiro da comunidade e a recompensa da proposta. Acreditamos que o sucesso desses projetos significa o sucesso da ada no longo prazo. Isso significa que todo mundo tem pele no jogo em algum aspecto.
 
 ## Por que há um limite de ada para se registrar para votar?&#x20;
 
-O Project Catalyst mantém um limite de ada para votar a fim de evitar violações de segurança. É importante garantir que atores honestos participem da plataforma de governança e uma maneira de fazer isso para garantir que os eleitores tenham interesse no sistema. Isso torna os ataques contra a plataforma caros para agentes mal-intencionados.
+O Project Catalyst mantém um limite de ada para votar a fim de evitar violações de segurança. É importante garantir que atores honestos participem da plataforma de governança e uma maneira de fazer isso para garantir que os voters tenham interesse no sistema. Isso torna os ataques contra a plataforma caros para agentes mal-intencionados.
 
 ## Existe um limite para quanto poder de voto as pessoas têm?&#x20;
 
@@ -68,13 +68,13 @@ Se os experimentos correrem bem, a quantidade de fundos sob controle do processo
 
 Sim. Esperamos que haja. Não há nenhuma regra rígida e rápida contra o fundo ser dividido em vários projetos. Além disso, o sistema permite que múltiplos desafios sejam abordados dentro de cada fundo.
 
-## As recompensas do eleitor serão vinculadas a quanto ada é mantido pelo eleitor?&#x20;
+## As recompensas do voter serão vinculadas a quanto ada é mantido pelo voter?&#x20;
 
 Sim.
 
 ## Como as recompensas são calculadas?&#x20;
 
-Atualmente, existem os seguintes tipos de recompensas: recompensas do eleitor, recompensas do proponente, recompensas do conselheiro da comunidade, recompensas do conselheiro da comunidade veterano e recompensas do referenciador.
+Atualmente, existem os seguintes tipos de recompensas: recompensas do voter, recompensas do proponente, recompensas do conselheiro da comunidade, recompensas do conselheiro da comunidade veterano e recompensas do referenciador.
 
 ## O que acontece com o financiamento da proposta se o preço do ada mudar?&#x20;
 
@@ -98,7 +98,7 @@ Sim, de fato podem haver vários desafios para cada período de votação. Devem
 
 ## E se o implementador ficar sem orçamento e não conseguir entregar?&#x20;
 
-Eles terão que fazer outra proposta e contar com a compreensão e flexibilidade da comunidade. Existe uma compreensão de como as startups e empresas de tecnologia funcionam em nossa comunidade. A comunicação é fundamental aqui e acreditamos que os relatórios regulares ajudarão os eleitores a determinar se é necessário mais financiamento.
+Eles terão que fazer outra proposta e contar com a compreensão e flexibilidade da comunidade. Existe uma compreensão de como as startups e empresas de tecnologia funcionam em nossa comunidade. A comunicação é fundamental aqui e acreditamos que os relatórios regulares ajudarão os voters a determinar se é necessário mais financiamento.
 
 ## Existem proteções legais para IP?&#x20;
 
@@ -122,7 +122,7 @@ A API e o conjunto de recursos eram flexíveis o suficiente para expressar todas
 
 ## Inovação e votação: Como podemos votar?&#x20;
 
-Leia o guia do eleitor para saber mais sobre o recenseamento eleitoral e a votação.
+Leia o guia do voter para saber mais sobre o recenseamento eleitoral e a votação.
 
 ## Como os proponentes podem envolver IOG e EMURGO no discurso sobre ideias promissoras?&#x20;
 
@@ -140,7 +140,7 @@ Um inovador é qualquer pessoa que traz ideias de avanço para a plataforma de i
 
 Pense no proponente como o “CEO” da proposta, responsável por orientar sua execução do início ao fim.
 
-## O que é um conselheiro comunitário?&#x20;
+## O que é um Proposal Assessor?&#x20;
 
 Um consultor comunitário está familiarizado com a plataforma de inovação, o desafio e as melhores práticas para desenvolver uma proposta. Eles agem para ajudar os inovadores a garantir que suas ideias sejam auditáveis, alcançáveis e impactantes.
 
@@ -148,9 +148,9 @@ Um consultor comunitário está familiarizado com a plataforma de inovação, o 
 
 Os implementadores fazem as propostas acontecerem. Podem ser indivíduos, equipes de desenvolvedores ou até parcerias com organizações.
 
-## Quem é o eleitor?&#x20;
+## Quem é o voter?&#x20;
 
-Os eleitores acabarão por decidir se uma proposta é financiada ou se são necessárias mais melhorias.
+Os voters acabarão por decidir se uma proposta é financiada ou se são necessárias mais melhorias.
 
 ## As equipes podem trabalhar em propostas?&#x20;
 

@@ -18,7 +18,7 @@ Após o registro no Cardano Ideascale, você pode enviar propostas quando uma no
 
 #### Como escrever uma proposta eficaz?&#x20;
 
-Propostas eficazes precisarão abordar um desafio específico apresentado para essa rodada de financiamento. Os proponentes precisam cobrir uma lista de verificação de requisitos para que sua proposta seja aceita para o processo de governança de votação. Você pode usar o guia oficial de propostas para aprender como escrever uma proposta eficaz. As propostas são revisadas pelos Conselheiros Comunitários de acordo com esses padrões.
+Propostas eficazes precisarão abordar um desafio específico apresentado para essa rodada de financiamento. Os proponentes precisam cobrir uma lista de verificação de requisitos para que sua proposta seja aceita para o processo de governança de votação. Você pode usar o guia oficial de propostas para aprender como escrever uma proposta eficaz. As propostas são revisadas pelos Proposal Assessors de acordo com esses padrões.
 
 #### Como posso aumentar minha probabilidade de obter financiamento?&#x20;
 

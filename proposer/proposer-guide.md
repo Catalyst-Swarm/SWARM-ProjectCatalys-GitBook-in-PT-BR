@@ -14,15 +14,15 @@ Desafio Como podemos encorajar desenvolvedores e empreendedores a construir Dapp
 
 ### Declarações de problemas&#x20;
 
-Os construtores não querem lidar com a burocracia\custo de tempo para garantir o financiamento. Como ajudamos os construtores Cardano a simplificar as propostas? Estou tentando resolver o problema de inicializar o movimento financeiro descentralizado/aberto em Cardano antes que Plutus e Marlowe atinjam a rede principal. Em ambos os exemplos, a relação entre as declarações do problema e o desafio é aparente. Isso é o que os eleitores estarão procurando. No entanto, embora o conteúdo das declarações do problema seja claro e eficaz, essas declarações do problema podem ser melhoradas.
+Os construtores não querem lidar com a burocracia\custo de tempo para garantir o financiamento. Como ajudamos os construtores Cardano a simplificar as propostas? Estou tentando resolver o problema de inicializar o movimento financeiro descentralizado/aberto em Cardano antes que Plutus e Marlowe atinjam a rede principal. Em ambos os exemplos, a relação entre as declarações do problema e o desafio é aparente. Isso é o que os voters estarão procurando. No entanto, embora o conteúdo das declarações do problema seja claro e eficaz, essas declarações do problema podem ser melhoradas.
 
 ### Fazendo grandes declarações de problemas (limite de 140 caracteres)&#x20;
 
-A declaração do problema identifica o problema relacionado ao desafio e oferece uma solução. É importante focar em problemas comuns, problemas urgentes, problemas caros e problemas frequentes. Explicar seu problema nesses termos é crucial para uma boa proposta, portanto deve ser a primeira coisa vista pelos eleitores. Uma boa declaração de problema tem quatro componentes: o resultado desejado, o problema bloqueador, os custos do problema e as evidências.
+A declaração do problema identifica o problema relacionado ao desafio e oferece uma solução. É importante focar em problemas comuns, problemas urgentes, problemas caros e problemas frequentes. Explicar seu problema nesses termos é crucial para uma boa proposta, portanto deve ser a primeira coisa vista pelos voters. Uma boa declaração de problema tem quatro componentes: o resultado desejado, o problema bloqueador, os custos do problema e as evidências.
 
 ### Estrutura da declaração do problema&#x20;
 
-Resultado desejado: pinta uma imagem do conjunto ideal de circunstâncias, uma vez que sua solução seja aceita. Problema de bloqueio: Uma explicação concisa do problema que impede a ocorrência desse conjunto de circunstâncias. Custos do problema: Um somatório da oportunidade e dos custos financeiros do problema para as principais partes interessadas. Isso ajuda os eleitores a avaliar o impacto do problema. Evidência: suporte para sua posição apresentada em um plano detalhado.
+Resultado desejado: pinta uma imagem do conjunto ideal de circunstâncias, uma vez que sua solução seja aceita. Problema de bloqueio: Uma explicação concisa do problema que impede a ocorrência desse conjunto de circunstâncias. Custos do problema: Um somatório da oportunidade e dos custos financeiros do problema para as principais partes interessadas. Isso ajuda os voters a avaliar o impacto do problema. Evidência: suporte para sua posição apresentada em um plano detalhado.
 
 Aqui está um exemplo:
 
@@ -56,7 +56,7 @@ Devem ser identificados mercados com crescimento de 20% ao ano. Exemplo: nossa s
 
 ### Mostre-nos o dinheiro - Problemas complexos&#x20;
 
-Muitas vezes precisam de financiamento suficiente para serem resolvidos. Isso é entendido pela comunidade do Project Catalyst. No entanto, qualquer pessoa que vote nessas propostas deve saber como o financiamento está sendo gasto. Fornecer uma análise detalhada de como o orçamento será gasto. Isso pode ocorrer de várias maneiras, mas destilar seu orçamento em uma série de itens de linha é uma maneira clara de mostrar aos eleitores que você considerou como as principais iniciativas de financiamento serão gastas. Também é importante lembrar que seu orçamento deve atender aos requisitos do projeto que você pretende realizar. Se você está tentando obter financiamento para um pequeno encontro, algumas centenas de dólares devem ser suficientes. Se você estiver coordenando o desenvolvimento de infraestrutura crítica, precisará de mais recursos. Certifique-se de combinar a visão com o financiamento apropriado. Exemplo: criar um podcast focado no desenvolvedor levará $ 5.000 nos primeiros 6 meses.
+Muitas vezes precisam de financiamento suficiente para serem resolvidos. Isso é entendido pela comunidade do Project Catalyst. No entanto, qualquer pessoa que vote nessas propostas deve saber como o financiamento está sendo gasto. Fornecer uma análise detalhada de como o orçamento será gasto. Isso pode ocorrer de várias maneiras, mas destilar seu orçamento em uma série de itens de linha é uma maneira clara de mostrar aos voters que você considerou como as principais iniciativas de financiamento serão gastas. Também é importante lembrar que seu orçamento deve atender aos requisitos do projeto que você pretende realizar. Se você está tentando obter financiamento para um pequeno encontro, algumas centenas de dólares devem ser suficientes. Se você estiver coordenando o desenvolvimento de infraestrutura crítica, precisará de mais recursos. Certifique-se de combinar a visão com o financiamento apropriado. Exemplo: criar um podcast focado no desenvolvedor levará $ 5.000 nos primeiros 6 meses.
 
 ### Entrando na estrada&#x20;
 

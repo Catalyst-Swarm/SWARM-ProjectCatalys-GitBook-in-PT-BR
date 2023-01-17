@@ -17,7 +17,7 @@
 * [Processo de Financiamento](processo-de-financiamento/processo-de-financiamento/README.md)
   * [Insight Sharing](processo-de-financiamento/processo-de-financiamento/insight-sharing.md)
 
-## Eleitor <a href="#voter" id="voter"></a>
+## Voter <a href="#voter" id="voter"></a>
 
 * [Visão geral da votação](voter/voter-guide.md)
 * [Registro na votação](voter/voter-registration.md)

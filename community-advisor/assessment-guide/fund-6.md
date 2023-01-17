@@ -2,7 +2,7 @@
 
 ## Mudanças&#x20;
 
-Conselheiros comunitários (CAs)&#x20;
+Conselheiros comunitários (PAs)&#x20;
 
 O número de avaliações premiadas por proposta aumenta de 3 para 5.&#x20;
 
@@ -13,5 +13,5 @@ O número de avaliações premiadas por proposta aumenta de 3 para 5.&#x20;
 * Se houver mais de 2 avaliações Excelentes ou 3 Boas, um sistema de sorteio é usado.&#x20;
 * Recompensas de bônus estão disponíveis (20% do orçamento total de recompensas da CA) para avaliações.&#x20;
 * ‘Aprovado’ pela comunidade, proporcional ao orçamento da proposta.&#x20;
-* Conselheiros Comunitários Veteranos (vCAs)&#x20;
+* Veteran Proposal Assessors ((vPA)s)&#x20;
 * As recompensas são proporcionais ao número de avaliações feitas

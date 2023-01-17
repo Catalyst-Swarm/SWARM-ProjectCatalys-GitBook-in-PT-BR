@@ -2,11 +2,11 @@
 
 Leia a visão geral do [conselheiro da comunidade](community-advisor-overview.md) para entender por que se tornar um conselheiro da comunidade.
 
-## O propósito dos Conselheiros Comunitários&#x20;
+## O propósito dos Proposal Assessors&#x20;
 
-Forneça uma perspectiva que ajude os eleitores a tomar decisões corretas e informadas sobre quais propostas financiar. Forneça aos proponentes feedback que ajude suas ideias a serem mais impactantes, auditáveis e viáveis.&#x20;
+Forneça uma perspectiva que ajude os voters a tomar decisões corretas e informadas sobre quais propostas financiar. Forneça aos proponentes feedback que ajude suas ideias a serem mais impactantes, auditáveis e viáveis.&#x20;
 
-Os Conselheiros Comunitários conseguem isso revisando as propostas com base nos critérios de revisão fornecidos. Eles então fornecerão uma pontuação numérica e uma explicação (razão) da pontuação. Consulte a seção Princípios Orientadores.&#x20;
+Os Proposal Assessors conseguem isso revisando as propostas com base nos critérios de revisão fornecidos. Eles então fornecerão uma pontuação numérica e uma explicação (razão) da pontuação. Consulte a seção Princípios Orientadores.&#x20;
 
 Provavelmente haverá mais Propostas do que uma única pessoa pode analisar cuidadosamente no tempo alocado. A qualidade das revisões é uma preocupação primordial. Pode ser sensato revisar as propostas que realmente falam com você primeiro e depois considerar outras, se tiver tempo e desejo.
 
@@ -14,7 +14,7 @@ Provavelmente haverá mais Propostas do que uma única pessoa pode analisar cuid
 
 ## Requisitos do conselheiro da comunidade&#x20;
 
-Para ser elegível para a função de Conselheiro Comunitário (CA), o candidato deve responder "sim" a todas as seguintes declarações:&#x20;
+Para ser elegível para a função de Proposal Assessor (CA), o candidato deve responder "sim" a todas as seguintes declarações:&#x20;
 
 * Sou voluntário para servir como CA.&#x20;
 * Sou membro da comunidade Cardano.&#x20;
@@ -30,11 +30,11 @@ Cada Rodada de Financiamento fornecerá uma janela de 7 dias para as revisões d
 
 ### Critérios de Pontuação&#x20;
 
-A justificativa para a pontuação deve ser fornecida. Isso permite que os eleitores entendam todas as considerações, ajudem os proponentes a aprender como melhorar para futuras rodadas de financiamento e estabeleçam a legitimidade da avaliação. É importante observar que quaisquer avaliações sem justificativa serão filtradas e o conselheiro da comunidade não será elegível para recompensas. Todos os revisores serão solicitados a fornecer uma pontuação de 1 a 5 para o quanto concordam com cada uma dessas declarações sobre cada proposta, bem como a lógica por trás da pontuação dada:
+A justificativa para a pontuação deve ser fornecida. Isso permite que os voters entendam todas as considerações, ajudem os proponentes a aprender como melhorar para futuras rodadas de financiamento e estabeleçam a legitimidade da avaliação. É importante observar que quaisquer avaliações sem justificativa serão filtradas e o conselheiro da comunidade não será elegível para recompensas. Todos os revisores serão solicitados a fornecer uma pontuação de 1 a 5 para o quanto concordam com cada uma dessas declarações sobre cada proposta, bem como a lógica por trás da pontuação dada:
 
 ### Impacto&#x20;
 
-Esta proposta efetivamente aborda o desafio. Cada desafio terá um novo conjunto de critérios a serem abordados. É fundamental que os conselheiros comunitários dêem um feedback que direcione a proposta para o desafio em si. Embora uma ideia possa ser impactante por conta própria, ela deve estar alinhada com os objetivos da comunidade. Para muitos desafios, uma proposta com impacto conterá o seguinte: Um problema que precisa ser resolvido. Uma comunidade que se beneficiaria com o lançamento desta proposta. Uma capacidade de escala para enfrentar os desafios futuros.
+Esta proposta efetivamente aborda o desafio. Cada desafio terá um novo conjunto de critérios a serem abordados. É fundamental que os Proposal Assessors dêem um feedback que direcione a proposta para o desafio em si. Embora uma ideia possa ser impactante por conta própria, ela deve estar alinhada com os objetivos da comunidade. Para muitos desafios, uma proposta com impacto conterá o seguinte: Um problema que precisa ser resolvido. Uma comunidade que se beneficiaria com o lançamento desta proposta. Uma capacidade de escala para enfrentar os desafios futuros.
 
 ### Viabilidade&#x20;
 
@@ -46,29 +46,29 @@ Esta proposta me forneceu informações suficientes para avaliar o progresso na 
 
 ### Significado da pontuação&#x20;
 
-As pontuações de 1 a 5 significam o seguinte: (1) Discordo totalmente (2) Discordo (3) Nem concordo nem discordo (4) Concordo (5) Concordo plenamente Para cada afirmação: Os CAs devem explicar sua justificativa para uma pontuação dada. As avaliações e justificativas fornecidas devem ser transparentes, para que os eleitores possam entender todas as considerações. É importante observar que quaisquer avaliações sem justificativa serão filtradas e o CA não será compensado. Os CAs devem garantir que incluam informações adicionais ou melhorias necessárias para que os proponentes obtenham uma pontuação mais alta em rodadas futuras. Depois que uma revisão é enviada, ela pode ser editada até que a janela de revisão seja fechada. Por favor, direcione quaisquer outras perguntas para [Telegram CatalystCommunityAdvisors](https://t.me/CatalystCommunityAdvisors).
+As pontuações de 1 a 5 significam o seguinte: (1) Discordo totalmente (2) Discordo (3) Nem concordo nem discordo (4) Concordo (5) Concordo plenamente Para cada afirmação: Os PAs devem explicar sua justificativa para uma pontuação dada. As avaliações e justificativas fornecidas devem ser transparentes, para que os voters possam entender todas as considerações. É importante observar que quaisquer avaliações sem justificativa serão filtradas e o CA não será compensado. Os PAs devem garantir que incluam informações adicionais ou melhorias necessárias para que os proponentes obtenham uma pontuação mais alta em rodadas futuras. Depois que uma revisão é enviada, ela pode ser editada até que a janela de revisão seja fechada. Por favor, direcione quaisquer outras perguntas para [Telegram CatalystCommunityAdvisors](https://t.me/CatalystCommunityAdvisors).
 
 ### A revisão foi concluída. O que acontece depois?&#x20;
 
-Revise o processo do revisor Este é um processo de autocorreção que precede a fase de envio da cédula e fornece orientação ao Comitê de Votação. AC termina a revisão. Um CSV anônimo contendo todas as revisões será passado para revisão por pares por CAs veteranos que filtrarão as revisões abaixo do padrão. Os proponentes também serão convidados a relatar revisões abaixo do padrão. CAs experientes decidem quais revisões relatadas devem ser excluídas. Um administrador do Catalyst remove os resultados da etapa 4 e quaisquer revisões em branco das revisões finais publicadas. Uma lista de todas as revisões removidas será publicada e uma retrospectiva para revisar o processo para o próximo fundo será realizada.
+Revise o processo do revisor Este é um processo de autocorreção que precede a fase de envio da cédula e fornece orientação ao Comitê de Votação. AC termina a revisão. Um CSV anônimo contendo todas as revisões será passado para revisão por pares por PAs veteranos que filtrarão as revisões abaixo do padrão. Os proponentes também serão convidados a relatar revisões abaixo do padrão. PAs experientes decidem quais revisões relatadas devem ser excluídas. Um administrador do Catalyst remove os resultados da etapa 4 e quaisquer revisões em branco das revisões finais publicadas. Uma lista de todas as revisões removidas será publicada e uma retrospectiva para revisar o processo para o próximo fundo será realizada.
 
 ### Envio de cédula&#x20;
 
-A pontuação da avaliação e um link para o URL da proposta na plataforma de inovação Ideascale ficarão visíveis no aplicativo Catalyst Voting. Todas as justificativas fornecidas pelos CAs serão anexadas à proposta original em Ideascale.
+A pontuação da avaliação e um link para o URL da proposta na plataforma de inovação Ideascale ficarão visíveis no aplicativo Catalyst Voting. Todas as justificativas fornecidas pelos PAs serão anexadas à proposta original em Ideascale.
 
 ### Anonimato&#x20;
 
 A identidade da CA será mantida anônima no Ideascale. No entanto, apesar de nossos melhores esforços e testes, sempre há um pequeno risco, devido à natureza do Ideascale ser uma ferramenta de terceiros e o anonimato ser um recurso experimental, de que a identidade do CA possa ser conhecida. Certifique-se de entender esse risco antes de revisar as propostas.
 
-### Incentivo do Conselheiro Comunitário&#x20;
+### Incentivo do Proposal Assessor&#x20;
 
-O objetivo dos incentivos é garantir que os revisores façam uma revisão criteriosa e justa de todas as propostas e que cada proposta receba pelo menos três revisões. Portanto: Um total de 5% do valor do fundo de desafio será alocado como incentivo aos conselheiros comunitários. 4% serão alocados como recompensas pelas avaliações. 1% será alocado para incentivar aqueles que revisam as avaliações. Após a revisão por pares pelos CAs, se puder ser determinado que uma revisão é: dada a partir de uma perspectiva tendenciosa. claro que a proposta não foi lida pelo conselheiro comunitário. claro que os critérios de seleção e as diretrizes de revisão não foram aplicados ou compreendidos pelo conselheiro da comunidade. carece de articulação clara da justificativa para a avaliação de forma construtiva.&#x20;
+O objetivo dos incentivos é garantir que os revisores façam uma revisão criteriosa e justa de todas as propostas e que cada proposta receba pelo menos três revisões. Portanto: Um total de 5% do valor do fundo de desafio será alocado como incentivo aos Proposal Assessors. 4% serão alocados como recompensas pelas avaliações. 1% será alocado para incentivar aqueles que revisam as avaliações. Após a revisão por pares pelos PAs, se puder ser determinado que uma revisão é: dada a partir de uma perspectiva tendenciosa. claro que a proposta não foi lida pelo Proposal Assessor. claro que os critérios de seleção e as diretrizes de revisão não foram aplicados ou compreendidos pelo conselheiro da comunidade. carece de articulação clara da justificativa para a avaliação de forma construtiva.&#x20;
 
-Nesse caso, o conselheiro comunitário não será elegível para incentivos e receberá uma advertência. Das revisões elegíveis, para cada proposta na cédula, três revisões serão selecionadas aleatoriamente de todos os revisores da proposta para receber um ntive. Isso significa que, se uma proposta receber 5 avaliações, 3 dos 5 revisores receberão um incentivo. Os incentivos serão distribuídos igualmente entre todas as avaliações selecionadas aleatoriamente. Para receber o incentivo, será solicitado ao conselheiro da comunidade que adicione um endereço de pagamento Shelley válido no Ideascale. As recompensas serão enviadas junto com as recompensas do proponente no início da fase de execução do Fundo.&#x20;
+Nesse caso, o Proposal Assessor não será elegível para incentivos e receberá uma advertência. Das revisões elegíveis, para cada proposta na cédula, três revisões serão selecionadas aleatoriamente de todos os revisores da proposta para receber um ntive. Isso significa que, se uma proposta receber 5 avaliações, 3 dos 5 revisores receberão um incentivo. Os incentivos serão distribuídos igualmente entre todas as avaliações selecionadas aleatoriamente. Para receber o incentivo, será solicitado ao conselheiro da comunidade que adicione um endereço de pagamento Shelley válido no Ideascale. As recompensas serão enviadas junto com as recompensas do proponente no início da fase de execução do Fundo.&#x20;
 
-Princípios Orientadores do Conselheiro Comunitário Mal-entendidos são mais prováveis do que comportamentos malignos (veja Hanlon's Razor). Embora seja fácil presumir que as propostas, mensagens ou atividades que você não entende ou com as quais discorda vêm de intenções negativas... é mais provável que você (ou eles) estejam entendendo mal algo sobre o outro; a proposta; ou o desafio/contexto. Encontre clareza e um terreno comum antes de desperdiçar sua energia. Separe a ideia da proposta. Uma proposta é apenas um documento e uma expressão de uma ideia. Uma ótima ideia ainda pode ter uma proposta ruim que não expressa a ideia adequadamente ou precisa de mais assistência/colaboração/recursos para atingir todo o seu potencial.&#x20;
+Princípios Orientadores do Proposal Assessor Mal-entendidos são mais prováveis do que comportamentos malignos (veja Hanlon's Razor). Embora seja fácil presumir que as propostas, mensagens ou atividades que você não entende ou com as quais discorda vêm de intenções negativas... é mais provável que você (ou eles) estejam entendendo mal algo sobre o outro; a proposta; ou o desafio/contexto. Encontre clareza e um terreno comum antes de desperdiçar sua energia. Separe a ideia da proposta. Uma proposta é apenas um documento e uma expressão de uma ideia. Uma ótima ideia ainda pode ter uma proposta ruim que não expressa a ideia adequadamente ou precisa de mais assistência/colaboração/recursos para atingir todo o seu potencial.&#x20;
 
-Os proponentes podem querer feedback sobre ambos, mas seja claro sobre o que você está discutindo. Os conselheiros estão aqui para aconselhar, não para colaborar (principalmente). Estamos caminhando em uma linha tênue neste caso, mas lembre-se de que os conselhos fornecidos podem vir de especialistas que estão tentando ajudar os proponentes a escrever uma documentação melhor, avaliar riscos ou formar equipes. Isso não é o mesmo que ter paixão pela ideia, portanto, os proponentes não devem ficar desanimados ao receber comentários no Ideascale que apenas "parecem negativos" e o comentarista não está se juntando à equipe. Os conselheiros estão aqui para aconselhar, não para serem guardiões. Os conselheiros devem sempre se lembrar disso ao escrever conselhos... e os proponentes devem sempre se lembrar disso ao lê-los. A equipe do Project Catalyst agradece a todos os nossos conselheiros comunitários por ajudarem a construir o futuro de Cardano!&#x20;
+Os proponentes podem querer feedback sobre ambos, mas seja claro sobre o que você está discutindo. Os conselheiros estão aqui para aconselhar, não para colaborar (principalmente). Estamos caminhando em uma linha tênue neste caso, mas lembre-se de que os conselhos fornecidos podem vir de especialistas que estão tentando ajudar os proponentes a escrever uma documentação melhor, avaliar riscos ou formar equipes. Isso não é o mesmo que ter paixão pela ideia, portanto, os proponentes não devem ficar desanimados ao receber comentários no Ideascale que apenas "parecem negativos" e o comentarista não está se juntando à equipe. Os conselheiros estão aqui para aconselhar, não para serem guardiões. Os conselheiros devem sempre se lembrar disso ao escrever conselhos... e os proponentes devem sempre se lembrar disso ao lê-los. A equipe do Project Catalyst agradece a todos os nossos Proposal Assessors por ajudarem a construir o futuro de Cardano!&#x20;
 
 ### Recursos&#x20;
 
@@ -78,4 +78,4 @@ Os proponentes podem querer feedback sobre ambos, mas seja claro sobre o que voc
 
 [Tutorial do conselheiro da comunidade ](https://docs.google.com/presentation/d/1lo2NvEu2i7Ma2Z2jgtqzBeHS4Hzt\_xSOSVkYjkz1Nv4/edit#slide=id.p)
 
-[Caixa de queda iterativa CA e vCA](https://docs.google.com/spreadsheets/d/120HylsMq-2oXeop7m8vBoaf7eb2D8viJazJs\_EPWU2I/edit#gid=0)\
+[Caixa de queda iterativa CA e (vPA)](https://docs.google.com/spreadsheets/d/120HylsMq-2oXeop7m8vBoaf7eb2D8viJazJs\_EPWU2I/edit#gid=0)\
